@@ -1,7 +1,7 @@
 # Project: Tournament Database  - jennifer lyden
 
 ## Synopsis
-Sets up a system (with a Python module and PostgreSQL database) to run a tournament.
+Sets up a system (with a Python module and PostgreSQL database) to run a tournament. Built using Udacity starter code for Full Stack Nanodegree program.
 
 ## Required Libraries and Dependencies
 * You will need PostgreSQL, Python v2.*, and Python module psycopg2 to run this project.

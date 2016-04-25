@@ -1,7 +1,7 @@
 # Project: Tournament Database  - jennifer lyden
 
 ## Synopsis
--Sets up a system (with a Python module and PostgreSQL database) to run a tournament. Built using Udacity starter code for Full Stack Nanodegree program.
+- Sets up a system (with a Python module and PostgreSQL database) to run a tournament. Built using Udacity starter code for Full Stack Nanodegree program.
 - Developed from basic starter code provided by Udacity.
 
 ## Required Libraries and Dependencies
